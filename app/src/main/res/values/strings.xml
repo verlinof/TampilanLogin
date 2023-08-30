@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tampilan Login</string>
+    <string name="Login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="info_register">Doesn\'t have an account?</string>
+    <string name="register_here">Register Here!</string>
+</resources>
